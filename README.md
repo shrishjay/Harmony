@@ -1,0 +1,32 @@
+# Harmony
+# Description: A minimalistic mental health application
+## Problem Statement: Develop an application to reduce the mental health issues of people in today's life.
+## Domain: Mental healthcare
+## Proposed solution: 
+#### The Harmony app gives advice based on how the user is currently feeling. It also let's the user record a journal about how they are feeling, on a particular day, which is then sent to their email. It also provides a library of mental health related resources and suicide prevention hotline numbers.
+## Tech Stacks: 
+#### Servers, Python (Programming language), PyCharm (IDE), streamlit (Python library), GitHub (VCS), Discord (For communication)
+## Tracks: Health Tech
+## Installation guide: 
+#### No installation or downloads needed as this is a web application. It can be run in any browser as a web application.
+## Usage: The usage is explained by the following points:-
+- #### The home is pretty straight-forward. There is a series of emojis available along with a select box for the user to pick an emoji. 
+- #### Based on the user's emoji selection, appropriate advices and measures that the user can take, are displayed.
+- #### The record a journal page provides a form to the user, with two input boxes for the user to enter their email and record a journal about how they feel respectively.
+- #### The journal recorded by the user is then automatically emailed to the user along with the timestamp.
+- #### The important contacts page provides a series of suicide prevention helpline numbers for various countries and link to other resources related to suicide prevention.
+- #### The contact us page, provides the user with two input boxes, to provide their email and a message for the Harmony team. When the user clicks the submit button, the message is automatically emailed to the Harmony development team, who can then promptly reply to it appropriately.
+## Contributing: To contribute to Harmony, follow these steps:
+- #### Fork the repository to your GitHub account.
+- #### Create a new branch from the main branch for each new feature or bug fix.
+- #### Make your changes within the branch, ensuring that your code adheres to our coding standards and guidelines.
+- #### Test your changes thoroughly to ensure they work as expected.
+- #### Commit your changes with descriptive commit messages.
+- #### Push your branch to your forked repository.
+- #### Submit a pull request (PR) to the main branch of the original repository.
+## Reporting Bugs and Issues - 
+#### If you encounter a bug or issue while using Harmony, please submit a new issue on our GitHub repository. Provide detailed information about the problem, including steps to reproduce it and any relevant error messages or screenshots.
+## New features:
+#### If you want any new feature, you can suggest them to us in our issues tab.
+## License: MIT 
+#### Further details, regarding the license can be found in Harmony's GitHub repository.
