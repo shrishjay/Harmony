@@ -10,11 +10,11 @@ with col1:
 with col2:
     st.title("Harmony")
     st.info("""
-    Introducing MindEase, the ultimate mobile app dedicated to promoting mental well-being and fostering mindfulness.
-    With personalized tools ranging from mood tracking and guided meditations to stress reduction exercises, MindEase empowers individuals to proactively manage stress, anxiety, and depression. 
+    Introducing Harmony, the ultimate mobile app dedicated to promoting mental well-being and fostering mindfulness.
+    With personalized tools ranging from mood tracking and guided meditations to stress reduction exercises, Harmony empowers individuals to proactively manage stress, anxiety, and depression. 
     Connect with a supportive community, access teletherapy services, and utilize evidence-based cognitive behavioral therapy tools to challenge negative thought patterns and build resilience. 
     Receive daily reminders and challenges, track your progress, and cultivate positive habits for a healthier, happier life. 
-    Join MindEase today and embark on a journey towards greater peace, resilience, and well-being.
+    Join Harmony today and embark on a journey towards greater peace, resilience, and well-being.
     """)
 
 st.title(" ")
